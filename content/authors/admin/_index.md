@@ -2,7 +2,7 @@
 bio: 
 education:
   courses:
-  - course: PhD in Medical Sciences (Genomics and Precision Medicine
+  - course: PhD in Medical Sciences
     institution: Australian National University
     year: 2016
   - course: MSc in Statistics
