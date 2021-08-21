@@ -38,6 +38,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jorge-i-velez/
+- icon: pubmed
+  icon_pack: ai
+  link: https://pubmed.ncbi.nlm.nih.gov/?term=V%C3%A9lez+JI
 superuser: true
 title: Jorge Vélez
 ---
