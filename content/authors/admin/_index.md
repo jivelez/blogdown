@@ -44,4 +44,4 @@ title: Jorge Vélez
 
 Jorge Vélez is an Assistant Professor of Analytics and Design of Experiments at the Department of Industrial Engineering, Universidad del Norte. His research interests include Data Analytics, Bioinformatics, Population Genetics, Genetic Epidemiology and Predictive Genomics. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
