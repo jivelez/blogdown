@@ -7,3 +7,5 @@ serve_site()
 
 
 check_content()
+
+hugo_version()
