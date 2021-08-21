@@ -32,7 +32,6 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-3146-7899
-superuser: true
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=GFxNB78AAAAJ&hl=es&authuser=1
@@ -42,6 +41,7 @@ superuser: true
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jorge-i-velez/
+superuser: true
 title: Jorge Vélez
 ---
 
