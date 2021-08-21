@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Universidad del Norte
   url: https://www.uninorte.edu.co/
-role: Professor of Industrial Engineering
+role: Asistant Professor
 social:
 - icon: envelope
   icon_pack: fas
