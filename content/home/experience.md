@@ -36,15 +36,6 @@ experience:
         #* Supervising MSc/PhD students
         #* Research and Innovation activities
         
-  - title: Research Professor
-    company: Universidad del Norte
-    company_url: 'https://www.uninorte.edu.co/'
-    company_logo: 
-    location: Barranquilla, Colombia
-    date_start: '2016-01-16'
-    date_end: '2018-03-01'
-    description: #|2-
-                
   - title: Research Assistant 
     company: John Curtin School of Medical Research
     company_url: ''
@@ -91,7 +82,7 @@ experience:
     description: ""  
     
   - title: Teaching Assistant
-    company: "Department of Sttaistics, National University of Colombia at Medellín"
+    company: "Department of Statistics, National University of Colombia at Medellín"
     company_url: ''
     company_logo: 
     location: Medellín, Colombia
@@ -100,7 +91,7 @@ experience:
     description: ""
     
   - title: Undergraduate Teaching Assistant
-    company: "Department of Sttaistics, National University of Colombia at Medellín"
+    company: "Department of Statistics, National University of Colombia at Medellín"
     company_url: ''
     company_logo: 
     location: Medellín, Colombia
