@@ -42,7 +42,7 @@ experience:
     company_logo: 
     location: Canberra, ACT 
     date_start: '2012-06-01'
-    date_end: '2014-09-01'
+    date_end: '2015-09-01'
     description: ""
     
   - title: Datametrics and BI Professional
