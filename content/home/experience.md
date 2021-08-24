@@ -36,13 +36,13 @@ experience:
         #* Supervising MSc/PhD students
         #* Research and Innovation activities
         
-  - title: Research Assistant 
+  - title: Graduate Student/Research Assistant 
     company: John Curtin School of Medical Research
     company_url: ''
     company_logo: 
     location: Canberra, ACT 
     date_start: '2012-06-01'
-    date_end: '2012-09-01'
+    date_end: '2014-09-01'
     description: ""
     
   - title: Datametrics and BI Professional
